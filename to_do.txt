@@ -1,0 +1,7 @@
+Ownership function
+Increment energy at different intervals (to recover)
+Other collectibles
+Game system & logics
+JS Web3 frontend
+Ganache tests
+Testnet tests
